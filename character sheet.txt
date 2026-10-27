@@ -1,0 +1,29 @@
+Human- 23- John Jostar- height 5'8- weight 70kg (group: Soldier) Wedge  Jesse LORE: Persuing Deepwood Target
+Class Mercenary Level.0 Bag-x2, flask, ration, contract, sling s.foul,  {Quiver x10S.P., x97 B.96., gunpowder} C: S: G:1 P: Weapon: Musket/R Sabre {steel}/M [Soldiers Leathers+2] {knitcap} 
+Hp-9 stm.p-12(10)+2 	ftg mp-11 bp-6
+Strength-10
+Dexterity-10
+Agility-10
+Perception-14
+Willpower-8
+Luck-6
+edurance-10
+
+Wedge Rogue/gambler 25 lv.1 CQC-
+Strength- 11
+Dexterity-9
+Agility-12
+Perception-8
+Willpower-8
+Luck-12
+edurance-11
+
+Jesse Rogue/leader 30 lv.1 Darkened Oak Q-staff
+Strength-11
+Dexterity-14
+Agility-10
+Perception-12
+faith-10
+Luck-10
+edurance-11
+-START GAME-
